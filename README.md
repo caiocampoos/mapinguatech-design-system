@@ -38,3 +38,8 @@ Will open storybook on port 6006
 Local:  http://localhost:6006/ 
 
 ```
+
+### Links for the other repos in the tech stack
+
+- [worker/consumer](https://github.com/caiocampoos/a-simple-consumer-rust)
+- [Server]() `soon`
